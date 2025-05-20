@@ -8,32 +8,66 @@
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_especies_invasoras_gesteco_ccaa/2024_2025/imagenes/portada.jpg)
 
-![portada](/Users/fjbonet/Library/CloudStorage/OneDrive-UniversidaddeCórdoba/4_docencia/master_biodiversidad_UCO/interacciones_e_invasoras/actos_docentes/Te_contenidos_IEEI_masterbio_UCO/imagenes/portada.jpg)
+
 
 ## Objetivos del acto docente
 
-Aunque suene paradójico, el manejo de especies invasoras consiste, básicamente en intentar su erradicación de un territorio dado.
+El manejo de especies invasoras consiste, básicamente, en intentar su erradicación de un territorio dado.
 
 Los objetivos de este acto docente son:
 
 + Conocer las características principales de las especies invasoras.
-
 + Aprender las características clave de los territorios potencialmente invadibles. 
-
 + Entender el concepto de invasión biológica.
-
 + Conocer los principales mecanismos de erradicación de especies invasoras. 
-
-  
-
 
 Todos los temas en los que se abordan procedimientos de gestión sectoriales o parciales siguen el mismo hilo argumental con los siguientes elementos.
 
 
 
-## Definición y objetivos de la gestión del manejo de especies invasoras
+## Definiciones y objetivos de la gestión del manejo de especies invasoras
 
-La gestión de especies amenazadas es el conjunto de acciones planificadas, basadas en evidencia científica, dirigidas a mantener o recuperar poblaciones viables de especies que enfrentan un riesgo de extinción significativo.
+Para entender bien cómo se manejan las especies invasoras, es fundamental comprender en profundidad cómo es el proceso de invasión biológica. A su vez, para entender esto, hemos de poner el foco, por un lado en las especies invasoras y, por otro en los territorios que resultan invadidos. A continuación se abordan estas cuestiones
+
+### ¿Qué es una especie invasora?
+Podemos considerar que una especie invasoras es aquella que, fuera de su área de distribución natural, se introduce en un territorio dado y genera impactos significativos a los ecosistemas locales como consecuencia de su expansión incontrolada. Este proceso ocurre siempre como consecuencia directa o indirecta de la actividad humana. 
+
+Esta definición tiene un problema importante derivado del concepto de área de distribución. El área de distribución de una especie cambia a lo largo del tiempo. Eso implicaría que cualquier especie puede llegar a casi cualquier punto de la Tierra si hubiera un tiempo disponible muy alto. El matiz que usamos para resolver este problema es que, en las invasiones biológicas, es el ser humano el que produce las traslocaciones de especies de un sitio a otro. Es decir, en las invasiones las especies se mueven mucho más rápido de lo que lo harían de forma natural. Según lo anterior, podemos acotar un poco la definición incorporando estos dos conceptos:
++ Especie exótica: aquella que resulta introducida en un territorio como consecuencia de la actividad humana.
++ Especie invasora: especie exótica potencialmente dañina para el medio ambiente, la economía o la salud humana.
+
+El proceso de invasión depende de la invasibilidad de la especie invasora y de las características del terreno invadido. Esta combinación de factores hace que casi cualquier especie pueda convertirse en invasora. Es difícil saber, *a priori*, qué especie puede convertirse en invasora y qué otra no. Algunas especies de plantas que en nuestra latitud se comportan como "miembros ejemplares" de nuestros ecosistemas, son agresivas en los Andes y se comportan como invasoras. En cualquier caso, hay una serie de rasgos ecológicos que comparten casi todas las especies invasoras:
++ Se trata de especies muy adaptables a distintas condiciones ambientales (son generalistas).
++ Tienen una gran tasa de reproducción y suelen ser estrategas de la *r*. Esto les confiere una gran capacidad de colonización de nuevos territorios.
++ Son grandes competidoras que desplazan a las especies locales que ocupan su mismo nicho.
++ No suelen tener depredadores en la zona que invaden.
++ Tienen capacidad de hibridación con especies parecidas que vivan en la zona invadida.
++ Tienen capacidad de actuar como especies *ingenieras* del ecosistema.
++ Se benefician de la ausencia de enemigos naturales en el territorio colonizado.
++ A veces segregan sustancias para evitar que otras especies compitan con ellas.
++ Suelen tener gran capacidad de dispersión.
++ Son tolerantes a condiciones ambientales extremas. Resistir grandes sequías, salinidad elevada, etc., infiere capacidad para colonizar territorios.
+
+### Características de los territorios invadidos
+¿Cuáles son las características que debería tener un territorio para ser susceptible de sufrir una invasión biológica? Ahí van algunas ideas clave. 
+
++ Características internas del territorio (o del ecosistema). Comprenden aquellas características propias del sistema invadido. Estas características están relacionadas con la vulnerabilidad de un ecosistema para resultar invadido. En este sentido, sabemos que un ecosistema susceptible de ser invadido debe de estar deteriorado. Es decir, consideramos que una especie invasora puede colonizar un territorio si y solo si dicho territorio ha experimentado algún impacto que ha abierto "huecos" en su estructura. Esta afirmación asume que, en un sistema no alterado todos los nichos ecológicos están ocupados y eso dificulta la entrada de otras especies. Detallando un poco más esta idea concluimos que el deterioro puede venir de dos fuentes:
+  + Hay una alteración provocada por la actividad humana. Adelantamos que esta es la principal razón por la que ocurren invasiones biológicas en la actualidad.
+  + El ecosistema invadido tiene una estructura sencilla de forma natural. Esto, *a priori*, puede ocurrir por varias razones:
+    + Grado de aislamiento alto. Aunque esto se confunde un poco con el siguiente bloque de ideas, asumimos que una isla tiene pocas especies (por la ya conocida biogeografía de islas). Eso hace  que puedan quedar nichos no ocupados y que eso aumente la probabilidad de invasión.
+    + Al inicio de la sucesión ecológica pueden quedar nichos disponibles y eso hace que el territorio sea más proclive a verse afectado por invasiones biológicas. De hecho, el proceso natural de la sucesión ecológica implica en buena medida la llegada de especies que ocupan todo el territorio. El problema ocurre cuando las especies que llegan son exóticas.
+    + Si hay una extinción local natural en un territorio, se abre una posibilidad de que el nicho que queda "libre" sea ocupado por una especie invasora.
+    + También es posible que los ambientes muy duros u extremos fomenten de alguna manera la invasibilidad. Algunas especies muy especializadas pueden ocupar estos ambientes. 
++ Relaciones de vecindad del ecosistema invadido. Se refieren a las características del territorio que rodean a un ecosistema invadido. Este conjunto de variables no están muy relacionadas con la vulnerabilidad propia del ecosistema invadido, sino con el riesgo de sufrir una invasión. En otras palabras, un territorio aumenta su suceptibilidad a sufrir una invasión cuando está rodeado de otros que son vulnerables o que ya soportan invasiones biológicas. La forma y el tamaño del ecosistema potencialmente invadido están relacionadas con el riesgo de recibir invasiones biológicas. 
+
+### Aspectos generales del proceso de invasión
+
+
+
+
+
+
+## ¿Por qué es necesario el manejo de especies invasoras?
 
 
 
