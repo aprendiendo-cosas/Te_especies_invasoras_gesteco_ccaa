@@ -6,7 +6,11 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: 1,5 horas
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_especies_invasoras_gesteco_ccaa/2024_2025/imagenes/portada.jpg)
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_especies_invasoras_gesteco_ccaa/refs/tags/2024_2025/imagenes/portada.jpg" alt="portada" style="zoom:200%;" />
+
+
+
+
 
 
 
@@ -62,6 +66,20 @@ El proceso de invasión depende de la invasibilidad de la especie invasora y de 
 
 ### Aspectos generales del proceso de invasión
 
+El tercer componente clave de las invasiones biológicas es el proceso de invasión en sí. Aquí analizamos este proceso teniendo en cuenta tres miradas diferentes pero complementarias. Estas aproximaciones se muestran en [esta](https://github.com/aprendiendo-cosas/Te_especies_invasoras_gesteco_ccaa/raw/refs/tags/2024_2025/presentacion/proceso_invasion.pptx) presentación:
+
++ Desde que una especie exótica llega a un territorio concreto hasta que desencadena una invasión, deben de superarse varias barreras. El proceso de invasión en el dominio del tiempo implica, de alguna forma, romper varios mecanismos de "protección" de los ecosistemas frentes a las especies exóticas [Blackburn et al. (2021)](https://github.com/aprendiendo-cosas/Te_especies_invasoras_gesteco_ccaa/raw/refs/tags/2024_2025/biblio/proceso_invasion.pdf). Este mecanismo se puede ver con detalle en la primera diapositiva de la presentación anterior.
+  + La primera barrera es la geografía. La mayor parte de las especies no son transportadas a otros territorios. 
+  + Las especies que salen de su área de distribución natural son susceptibles de protagonizar una invasión biológica. La segunda barrera la constituyen los mecanismos de contención que haya en la zona nueva a la que llegan. Estos mecanismos tienen que ver fundamentalmente con la estructrua y funcionamiento del ecosistema receptor. Muchas especies que llegan a un territorio nuevo no sobreviven.
+  + Cuando la nueva especie sobrevive, lo más probable es que no se reproduzca. Esta supone la siguiente barrera. Si no se reproducen, falla el proceso de invasión.
+  + En algunas ocasiones ocurre la reproducción y se funda una nueva población de la especie invasora. En estos casos estamos ante el inicio de una invasión. Pero también es muy probable que las especies invasoras generen una población que no se expande. Esto puede ocurrir por limitación de recursos o por competencia con otras especies. En estos casos la invasión vuelve a fallar.
+  + Tras superar esta última barrera, las especies exóticas se convierten en una invasión porque se extienden por todo el territorio. 
+
++ Este proceso de invasión recuerda mucho al mecanismo por el cual un organismo es infectado por un virus o una bacteria por primera vez. Este paralelismo entre invasiones biológicas y zoonosis se estudió intensamente después de la pandemia de COVID-19. Las diapositivas de la 2 a la 6 de la presentación anterior, describen el proceso. En realidad el mecanismo de invasión biológica es muy parecido al de la infección por un agente patógeno de un individuo. Sigue fases similares (diapositiva 2)
++ La última mirada pone el foco en la evolución biológica. Las invasiones biológicas ocurren cuando un organismo se pone en contacto con un ecosistema con el que no se ha relacionado en mucho tiempo (diapos 3 a 6). Este mecanismo evolutivo implica una especie de "carrera armamentista" entre el patógeno y el sistema inmune del individuo. Asimismo, en el caso de las invasiones biológicas, las especies coevolucionan entre sí en un territorio dado. Si una especie es liberada en un terreno en el que no ha coevolucionado con otras especies, lo más probable es que se extinga. Pero si no lo hace, tendrá a su alcance una cantidad enorme de adaptaciones para las cuales no hay "contramedidas" en el territorio invadido.
+
+
+
 
 
 
@@ -73,10 +91,7 @@ El proceso de invasión depende de la invasibilidad de la especie invasora y de 
 
 ## Breve historia del manejo de especies invasoras
 
-+ La preocupación por la extinción de especies surge cuando la sobreexplotación de las mismas afecta a la cantidad de recursos obtenidos por los humanos.
-+ El concepto de extinción se formaliza en ciencia en torno a 1750.
-+ La conservaciónd de especies ha estado ligada históricamente a la declaración de espacios protegidos.
-+ Las grandes extinciones de principios del siglo XX (palomas en EEUU y otros ejemplos) condicionaron la creación de legislación para proteger especies amenazadas.
+
 
 
 
@@ -98,35 +113,29 @@ En el ámbito más social, consideramos las siguientes teorías o marcos concept
 
 ## Métodos y técnicas usadas para erradicar especies invasoras
 
-+ Conocimiento sobre el estado de las poblaciones de las especies amenazdas.
-+ Asignación de categorías de amenaza según la UICN.
-+ Creación de bancos de germoplasma o de células germinales animales.
-+ Planes de cría en cautividad.
-+ Conservación *ex situ*
-+ Traslocación de ejemplares para asegurar la diversidad genética de las poblaciones.
-+ Mejora del hábitat receptor.
-+ Concienciación social.
+
 
 
 
 ## Ejemplos relevantes
 
-+ La red de jardines botánicos de Andalucía es un ejemplo de éxito en el que se abordan tanto la componente ecológica como la social de la conservación de especies amenazadas.
+A continuación se describen tres ejemplos relevantes de la importancia de manejar las especies invasoras en distintos tipos de ecosistemas
+
+- En primer lugar analizamos el efecto que tienen las invasiones biológicas en los ciclos biogeoquímicos a escala local. Se estudia un interesante ejemplo en el que, en unas islas tropicales se caracteriza la diversidad en función de la presencia o no de ratas (especie invasora). El [vídeo](https://www.youtube.com/watch?v=fLlr-4IU7d4) mostrado es muy ilustrativo.
+- El segundo ejemplo es muy curioso porque analiza cómo la presencia de una especie invasora (hormiga) puede cambiar el comportamiento de los herbívoros de la sabana africana. Y esto ocasionar un cambio en la dieta de los leones. [Este](https://ecomandanga.wordpress.com/2024/02/07/la-hormiga-que-dio-bufalo-por-cebra-a-los-leones/) documento describe con detalle el proceso.
+- Por último estudiamos un caso en el que la presencia de plantas invasoras condicionan el ciclo hidrológico en una cuenca de Sudáfrica, aumentando enormemente la evapotranspiración. Esto reduce las reservas hídricas que pueden usar las ciudades. [Este](https://www.youtube.com/watch?v=5oilP6BixQ8) vídeo ilustra el ejemplo.
 
 
 
 ## Marco legal
 
-Hay multitud de disposiciones legales sobre este asunto. En la presentación de diapositivas que guía este acto docente se enumeran algunas.
+
 
 
 
 ## Retos de conservación de especies
 
-A pesar de ser un procedimiento de gestión relativamente exitoso, se enfrenta en la actualidad a una serie de retos importantes:
-+ Solventar el sesgo que favorece a las especies que o bien son útiles o bien nos resultan atractivas. La mayor parte de la atención mediática (y por tanto financiera) se va a la protección de especies con rasgos que resultan agradables para los humanos. Esto no está relacionado con el efecto ecológico de la desaparición de las especies, por lo que sería razonable matizar ese sesgo.
-+ Mejorar nuestra comprensión del impacto del cambio climático en las especies amenazadas. El cambio en el clima genera un desplazamiento de nicho en las especies. Esto afecta más a aquellas que ya se encuentran amenazadas. Identificar y caracterizar este desplazamiento es determinante para su conservación. También lo es encontrar lugares donde se pudieran reintroducir las especies amenazadas por el cambio climático.
-+ Como hemos visto, es relativamente fácil reducir el riesgo de extinción de una especie. "Basta" con reproducir a esa especie en cautividad, por ejemplo. El reto está en restaurar los ecosistemas para que las especies amenazadas puedan reintroducirse en el medio sin que esto conlleve su extinción.
+
 
 
 
