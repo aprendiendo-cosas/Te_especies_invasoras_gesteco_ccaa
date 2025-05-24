@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: 1,5 horas
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_especies_invasoras_gesteco_ccaa/refs/tags/2024_2025/imagenes/portada.jpg" alt="portada" style="zoom:200%;" />
+![Portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_especies_invasoras_gesteco_ccaa/refs/heads/main/imagenes/portada.jpg)
 
 
 
